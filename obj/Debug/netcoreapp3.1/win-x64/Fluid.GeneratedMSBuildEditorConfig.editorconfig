@@ -1,0 +1,6 @@
+is_global = true
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = Fluid
+build_property.ProjectDir = c:\Users\Tangent\Dropbox\Programming\RiderProjects\Fluid\
